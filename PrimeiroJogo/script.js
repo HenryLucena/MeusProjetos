@@ -153,7 +153,7 @@ function caminhoEsquerda() {
 }
 
 function escolhaEsquerda1() {
-    texto.textContent = "De repente, enquanto você andava em frente, você escuta um clique e um alçapão se abre embaixo dos seus pés"
+    texto.textContent = "De repente, enquanto você andava em frente, você escuta um clique e um alçapão se abre embaixo dos seus pés e você cai em um ninho de homens-rato"
 
     botao2.style.display = "inline-block"
 
